@@ -21,10 +21,12 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hey, I'm a computer programmer from Nairobi.
-          Currently working on/with the blockchain technology and crypto to bring
-          social and economic change in Kenya. You can contact me on{' '} <a href='https://twitter.com/014_kk'
-          >Twitter</a>
+        <p>Hey, I'm a computer programmer and a crypto enthusiast from Nairobi currently 
+          having lots of fun learning and building on smart contract platforms
+          especially Ethereum and Solana. 
+           You can contact me on{' '} <a href='https://twitter.com/014_kk'
+          >Twitter</a>{' '} or via {' '}<a href='https://mail.google.com/mail/u/0/#inbox'>Email</a>.
+           Also, here is my <a href='https://github.com/kelvinkirima014'>GitHub.</a>
         </p>
       </section>
       
