@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
           having lots of fun learning and building on smart contract platforms
           especially Ethereum and Solana. 
            You can contact me on{' '} <a href='https://twitter.com/014_kk'
-          >Twitter</a>{' '} or via {' '}<a href='https://mail.google.com/mail/u/0/#inbox'>Email</a>.
+          >Twitter</a>{' '} or via {' '}<a href='mailto:kelvinkirima2@gmail.com'>Email</a>.
            Also, here is my <a href='https://github.com/kelvinkirima014'>GitHub.</a>
         </p>
       </section>
