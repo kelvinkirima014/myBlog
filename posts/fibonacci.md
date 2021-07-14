@@ -2,7 +2,7 @@
 title: 'Generating the nth Fibonacci in Rust'
 date: '2021-07-14'
 ---
-I committed myself to learn Rust since May, mainly because I am so psyched about the [Solana](https://solana.com/) ecosystem which uses Rust for [solana programs](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/) and is also built on Rust. The [Rust Book] (https://doc.rust-lang.org/book/ch00-00-introduction.html) is a great resource to learn from and after going through the basics, one challenge they ask you to try out is coding a program that generates numbers in a Fibonacci sequence. I thought it would be cool to document my journey by sharing walkthroughs of what I am building. 
+I committed myself to learn Rust since May, mainly because I am so psyched about the [Solana](https://solana.com/) ecosystem which uses Rust for [solana programs](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/) and is also built on Rust. The [Rust Book](https://doc.rust-lang.org/book/ch00-00-introduction.html) is a great resource to learn from and after going through the basics, one challenge they ask you to try out is coding a program that generates numbers in a Fibonacci sequence. I thought it would be cool to document my journey by sharing walkthroughs of what I am building. 
 
 ### What’s a Fibonacci sequence?
 
@@ -180,4 +180,4 @@ fn fib (n: u32) -> u32 {
 }
 ```
 ### Conclusion
-This was a great exploration of several Rust concepts like variables, loops, match, conditionals and data types. You could also go through the [guessing game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html) in the Rust book which I borrowed most concepts of this program from. Am looking forward to tackling more challenges and building better programs especially in the crypto space. Bye bye:v:!
+This was a great exploration of several Rust concepts like variables, loops, match, conditionals and data types. You could also go through the [guessing game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html) in the Rust book which I borrowed most concepts of this program from. Am looking forward to tackling more challenges and building better programs especially in the crypto space. Bye bye!
